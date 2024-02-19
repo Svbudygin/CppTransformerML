@@ -1,3 +1,13 @@
+./build/
+./build
+/build/
+/build
+build 
+./.vscode/
+./.vscode
+/.vscode/
+/.vscode
+.vscode 
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
